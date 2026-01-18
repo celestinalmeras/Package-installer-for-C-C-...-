@@ -8,3 +8,5 @@ Running the software requires the pre-installation of MSYS2 64-bit (https://www.
 The software automatically updates packages and MSYS2 if necessary. You can then specify the name of the package you wish to install. A list of suggestions will be displayed, and you simply need to enter the index of the chosen option. The program will then display the package size and ask for your confirmation before starting the installation. The package will then be installed.
 
 The software : [here](https://github.com/celestinalmeras/Package-installer-for-C-C-...-/blob/525658502740e6f45690fb458527750404f1fb5c/PackageInstaller.exe)
+
+This small software program is subject to a license available [here](https://github.com/celestinalmeras/Package-installer-for-C-CPP-and_others/blob/ba4776412ae5ff5feeacde18b5e34d5b68335fdd/LICENCE)
