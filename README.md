@@ -1,5 +1,5 @@
 # Package installer for C, C++, ...
-⚠️ **The software is only for WINDOWS and is in French!**
+⚠️ **The software is only for WINDOWS and is in French!** ⚠️
 
 This executable program is a package installer based on MSYS2 64-bit. It allows you to install packages quickly and easily.
 
